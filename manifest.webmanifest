@@ -1,0 +1,18 @@
+{
+  "name":"EV Charge Tracker",
+  "short_name":"EV Tracker",
+  "description":"บันทึก วิเคราะห์ และสแกนประวัติการชาร์จรถ EV",
+  "lang":"th",
+  "dir":"ltr",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#eef2f0",
+  "theme_color":"#0a9f62",
+  "icons":[
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-180.png","sizes":"180x180","type":"image/png","purpose":"any"}
+  ]
+}
